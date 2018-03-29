@@ -31,3 +31,16 @@ int main(){
 	
 }
 */
+
+//Working on part B.
+
+int countChar(string line, char c){
+
+	for(int j=0; j<line.length();++j){
+
+		if(line[j]==c){
+
+			line[j]+='\n \t';
+		}
+	}
+}
