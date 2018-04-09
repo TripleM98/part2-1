@@ -1,0 +1,1 @@
+The code does not compile since you had int main(){} in funcs.cpp. The code compiles now after I fixed the problem. Part 1 of the code is fixed now. I was able to remove the leading spaces and include the other spaces.
